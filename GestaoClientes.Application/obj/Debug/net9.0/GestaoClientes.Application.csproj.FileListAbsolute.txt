@@ -4,3 +4,13 @@ C:\Users\jose.filho.ext\source\repos\GestaoClientes.Application\obj\Debug\net9.0
 C:\Users\jose.filho.ext\source\repos\GestaoClientes.Application\obj\Debug\net9.0\GestaoClientes.Application.AssemblyInfo.cs
 C:\Users\jose.filho.ext\source\repos\GestaoClientes.Application\obj\Debug\net9.0\GestaoClientes.Application.csproj.CoreCompileInputs.cache
 C:\Users\jose.filho.ext\source\repos\GestaoClientes.Application\obj\Debug\net9.0\GestaoClientes.Application.sourcelink.json
+C:\Users\jose.filho.ext\source\repos\GestaoClientes.Application\bin\Debug\net9.0\GestaoClientes.Application.deps.json
+C:\Users\jose.filho.ext\source\repos\GestaoClientes.Application\bin\Debug\net9.0\GestaoClientes.Application.dll
+C:\Users\jose.filho.ext\source\repos\GestaoClientes.Application\bin\Debug\net9.0\GestaoClientes.Application.pdb
+C:\Users\jose.filho.ext\source\repos\GestaoClientes.Application\bin\Debug\net9.0\GestaoClientes.Domain.dll
+C:\Users\jose.filho.ext\source\repos\GestaoClientes.Application\bin\Debug\net9.0\GestaoClientes.Domain.pdb
+C:\Users\jose.filho.ext\source\repos\GestaoClientes.Application\obj\Debug\net9.0\GestaoCl.361E6877.Up2Date
+C:\Users\jose.filho.ext\source\repos\GestaoClientes.Application\obj\Debug\net9.0\GestaoClientes.Application.dll
+C:\Users\jose.filho.ext\source\repos\GestaoClientes.Application\obj\Debug\net9.0\refint\GestaoClientes.Application.dll
+C:\Users\jose.filho.ext\source\repos\GestaoClientes.Application\obj\Debug\net9.0\GestaoClientes.Application.pdb
+C:\Users\jose.filho.ext\source\repos\GestaoClientes.Application\obj\Debug\net9.0\ref\GestaoClientes.Application.dll
