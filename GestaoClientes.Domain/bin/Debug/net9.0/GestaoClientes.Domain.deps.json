@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "GestaoClientes.Domain/1.0.0": {
+        "runtime": {
+          "GestaoClientes.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GestaoClientes.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

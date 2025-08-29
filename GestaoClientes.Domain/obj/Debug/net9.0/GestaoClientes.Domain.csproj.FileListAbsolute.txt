@@ -1,0 +1,11 @@
+C:\Users\jose.filho.ext\source\repos\GestaoClientes.Domain\bin\Debug\net9.0\GestaoClientes.Domain.deps.json
+C:\Users\jose.filho.ext\source\repos\GestaoClientes.Domain\bin\Debug\net9.0\GestaoClientes.Domain.dll
+C:\Users\jose.filho.ext\source\repos\GestaoClientes.Domain\bin\Debug\net9.0\GestaoClientes.Domain.pdb
+C:\Users\jose.filho.ext\source\repos\GestaoClientes.Domain\obj\Debug\net9.0\GestaoClientes.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose.filho.ext\source\repos\GestaoClientes.Domain\obj\Debug\net9.0\GestaoClientes.Domain.AssemblyInfoInputs.cache
+C:\Users\jose.filho.ext\source\repos\GestaoClientes.Domain\obj\Debug\net9.0\GestaoClientes.Domain.AssemblyInfo.cs
+C:\Users\jose.filho.ext\source\repos\GestaoClientes.Domain\obj\Debug\net9.0\GestaoClientes.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jose.filho.ext\source\repos\GestaoClientes.Domain\obj\Debug\net9.0\GestaoClientes.Domain.dll
+C:\Users\jose.filho.ext\source\repos\GestaoClientes.Domain\obj\Debug\net9.0\refint\GestaoClientes.Domain.dll
+C:\Users\jose.filho.ext\source\repos\GestaoClientes.Domain\obj\Debug\net9.0\GestaoClientes.Domain.pdb
+C:\Users\jose.filho.ext\source\repos\GestaoClientes.Domain\obj\Debug\net9.0\ref\GestaoClientes.Domain.dll

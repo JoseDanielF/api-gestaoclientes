@@ -1,0 +1,11 @@
+C:\Users\jose.filho.ext\source\repos\GestaoClientes.Tests\bin\Debug\net9.0\GestaoClientes.Tests.deps.json
+C:\Users\jose.filho.ext\source\repos\GestaoClientes.Tests\bin\Debug\net9.0\GestaoClientes.Tests.dll
+C:\Users\jose.filho.ext\source\repos\GestaoClientes.Tests\bin\Debug\net9.0\GestaoClientes.Tests.pdb
+C:\Users\jose.filho.ext\source\repos\GestaoClientes.Tests\obj\Debug\net9.0\GestaoClientes.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose.filho.ext\source\repos\GestaoClientes.Tests\obj\Debug\net9.0\GestaoClientes.Tests.AssemblyInfoInputs.cache
+C:\Users\jose.filho.ext\source\repos\GestaoClientes.Tests\obj\Debug\net9.0\GestaoClientes.Tests.AssemblyInfo.cs
+C:\Users\jose.filho.ext\source\repos\GestaoClientes.Tests\obj\Debug\net9.0\GestaoClientes.Tests.csproj.CoreCompileInputs.cache
+C:\Users\jose.filho.ext\source\repos\GestaoClientes.Tests\obj\Debug\net9.0\GestaoClientes.Tests.dll
+C:\Users\jose.filho.ext\source\repos\GestaoClientes.Tests\obj\Debug\net9.0\refint\GestaoClientes.Tests.dll
+C:\Users\jose.filho.ext\source\repos\GestaoClientes.Tests\obj\Debug\net9.0\GestaoClientes.Tests.pdb
+C:\Users\jose.filho.ext\source\repos\GestaoClientes.Tests\obj\Debug\net9.0\ref\GestaoClientes.Tests.dll
