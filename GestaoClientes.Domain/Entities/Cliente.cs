@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using GestaoClientes.Domain.ValueObjects;
-
+﻿using GestaoClientes.Domain.ValueObjects;
 namespace GestaoClientes.Domain.Entities;
 
 public class Cliente

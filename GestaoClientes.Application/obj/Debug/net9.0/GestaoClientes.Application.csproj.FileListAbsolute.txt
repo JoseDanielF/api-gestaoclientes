@@ -1,11 +1,6 @@
-C:\Users\jose.filho.ext\source\repos\GestaoClientes.Application\bin\Debug\net9.0\GestaoClientes.Application.deps.json
-C:\Users\jose.filho.ext\source\repos\GestaoClientes.Application\bin\Debug\net9.0\GestaoClientes.Application.dll
-C:\Users\jose.filho.ext\source\repos\GestaoClientes.Application\bin\Debug\net9.0\GestaoClientes.Application.pdb
+C:\Users\jose.filho.ext\source\repos\GestaoClientes.Application\obj\Debug\net9.0\GestaoClientes.Application.csproj.AssemblyReference.cache
 C:\Users\jose.filho.ext\source\repos\GestaoClientes.Application\obj\Debug\net9.0\GestaoClientes.Application.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\jose.filho.ext\source\repos\GestaoClientes.Application\obj\Debug\net9.0\GestaoClientes.Application.AssemblyInfoInputs.cache
 C:\Users\jose.filho.ext\source\repos\GestaoClientes.Application\obj\Debug\net9.0\GestaoClientes.Application.AssemblyInfo.cs
 C:\Users\jose.filho.ext\source\repos\GestaoClientes.Application\obj\Debug\net9.0\GestaoClientes.Application.csproj.CoreCompileInputs.cache
-C:\Users\jose.filho.ext\source\repos\GestaoClientes.Application\obj\Debug\net9.0\GestaoClientes.Application.dll
-C:\Users\jose.filho.ext\source\repos\GestaoClientes.Application\obj\Debug\net9.0\refint\GestaoClientes.Application.dll
-C:\Users\jose.filho.ext\source\repos\GestaoClientes.Application\obj\Debug\net9.0\GestaoClientes.Application.pdb
-C:\Users\jose.filho.ext\source\repos\GestaoClientes.Application\obj\Debug\net9.0\ref\GestaoClientes.Application.dll
+C:\Users\jose.filho.ext\source\repos\GestaoClientes.Application\obj\Debug\net9.0\GestaoClientes.Application.sourcelink.json

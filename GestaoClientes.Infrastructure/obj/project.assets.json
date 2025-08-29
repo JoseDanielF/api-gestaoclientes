@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net9.0": {
+      "GestaoClientes.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/GestaoClientes.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GestaoClientes.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "GestaoClientes.Domain/1.0.0": {
+      "type": "project",
+      "path": "../GestaoClientes.Domain/GestaoClientes.Domain.csproj",
+      "msbuildProject": "../GestaoClientes.Domain/GestaoClientes.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net9.0": [
+      "GestaoClientes.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\jose.filho.ext\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\jose.filho.ext\\source\\repos\\GestaoClientes.Domain\\GestaoClientes.Domain.csproj": {
+              "projectPath": "C:\\Users\\jose.filho.ext\\source\\repos\\GestaoClientes.Domain\\GestaoClientes.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

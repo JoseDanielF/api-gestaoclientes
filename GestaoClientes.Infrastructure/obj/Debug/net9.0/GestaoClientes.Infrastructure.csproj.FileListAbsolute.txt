@@ -5,6 +5,7 @@ C:\Users\jose.filho.ext\source\repos\GestaoClientes.Infrastructure\obj\Debug\net
 C:\Users\jose.filho.ext\source\repos\GestaoClientes.Infrastructure\obj\Debug\net9.0\GestaoClientes.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\jose.filho.ext\source\repos\GestaoClientes.Infrastructure\obj\Debug\net9.0\GestaoClientes.Infrastructure.AssemblyInfo.cs
 C:\Users\jose.filho.ext\source\repos\GestaoClientes.Infrastructure\obj\Debug\net9.0\GestaoClientes.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\jose.filho.ext\source\repos\GestaoClientes.Infrastructure\obj\Debug\net9.0\GestaoClientes.Infrastructure.sourcelink.json
 C:\Users\jose.filho.ext\source\repos\GestaoClientes.Infrastructure\obj\Debug\net9.0\GestaoClientes.Infrastructure.dll
 C:\Users\jose.filho.ext\source\repos\GestaoClientes.Infrastructure\obj\Debug\net9.0\refint\GestaoClientes.Infrastructure.dll
 C:\Users\jose.filho.ext\source\repos\GestaoClientes.Infrastructure\obj\Debug\net9.0\GestaoClientes.Infrastructure.pdb

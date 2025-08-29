@@ -205,6 +205,16 @@
             "related": ".xml"
           }
         }
+      },
+      "GestaoClientes.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/GestaoClientes.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GestaoClientes.Domain.dll": {}
+        }
       }
     }
   },
@@ -580,10 +590,16 @@
         "microsoft.identitymodel.tokens.8.0.1.nupkg.sha512",
         "microsoft.identitymodel.tokens.nuspec"
       ]
+    },
+    "GestaoClientes.Domain/1.0.0": {
+      "type": "project",
+      "path": "../GestaoClientes.Domain/GestaoClientes.Domain.csproj",
+      "msbuildProject": "../GestaoClientes.Domain/GestaoClientes.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
+      "GestaoClientes.Domain >= 1.0.0",
       "MediatR >= 13.0.0"
     ]
   },
@@ -618,7 +634,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\jose.filho.ext\\source\\repos\\GestaoClientes.Domain\\GestaoClientes.Domain.csproj": {
+              "projectPath": "C:\\Users\\jose.filho.ext\\source\\repos\\GestaoClientes.Domain\\GestaoClientes.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
