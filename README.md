@@ -40,7 +40,7 @@ A solução está organizada em projetos que representam as camadas da Clean Arc
 
 ### Pré-requisitos
 -   [.NET 9 SDK](https://dotnet.microsoft.com/download/dotnet/9.0)
--   [Visual Studio 2022](https://visualstudio.microsoft.com/) ou um editor de sua preferência.
+-   [Visual Studio 2022](https://visualstudio.microsoft.com/)
 
 ### Passos
 1.  Clone este repositório.
