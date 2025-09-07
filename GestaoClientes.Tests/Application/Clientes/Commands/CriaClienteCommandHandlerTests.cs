@@ -56,7 +56,7 @@ public class CriaClienteCommandHandlerTests
     [Fact]
     public async Task Handle_DeveLancarExcecao_QuandoNomeFantasiaEhVazio()
     {
-        var command = new CriaClienteCommand("", "12345678000199"); // Nome vazio
+        var command = new CriaClienteCommand("", "12345678000199");
 
         await Assert.ThrowsAsync<ArgumentException>(() => _handler.Handle(command, CancellationToken.None));
     }
